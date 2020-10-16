@@ -58,3 +58,7 @@ export class createOrphaneges1602736193011 implements MigrationInterface {
     }
 
 }
+
+//Always when you want to creat a new table in you database, you should to run this command:
+
+//yarn typeorm migration:create -n create_images
